@@ -35,14 +35,8 @@ The accuracy was tested across various denominations to ensure reliable recognit
 Results and Performance
 Our system was tested with multiple denominations, and here are the results:
 
-Denomination	Time Taken (seconds)	Accuracy (%)
-INR 10	             24.6	              84%
-INR 20	             40.5	              70%
-INR 50	             30.0	              79%
-INR 100	             30.0	              79%
-INR 200	             36.5	              77%
-INR 500	             26.0	              80%
-INR 2000	           34.5	              74%
+![image](https://github.com/user-attachments/assets/baa737b9-fd4f-4068-8b6d-94309b6c895f)
+
 
 ## Key Observations
 Notes with clear and high-quality images were detected more accurately.
