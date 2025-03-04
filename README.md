@@ -52,6 +52,11 @@ The model showed room for improvement in detecting INR 2000 notes due to limited
 Future Scope and Improvements
 Our model currently detects only Indian currency, but it has the potential to be extended to global currency recognition with a larger dataset. Here are some areas for improvement:
 
+## Screenshots: 
+![image](https://github.com/user-attachments/assets/3268e8c4-8516-4ff1-9e54-8ae7e4c5c17b)
+![image](https://github.com/user-attachments/assets/3ff0c6ac-8a4c-4b15-9574-64a36453e14f)
+
+
 ### Real-time detection: Implementing a mobile application with real-time recognition.
 ### Enhanced accuracy: Using more advanced deep learning architectures like YOLO (You Only Look Once) or Vision Transformers.
 ### Support for damaged or folded notes: Improving recognition capabilities for worn-out or crumpled notes.
